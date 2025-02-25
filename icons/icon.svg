@@ -1,0 +1,16 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with gradient -->
+  <circle cx="64" cy="64" r="60" fill="url(#gradient)"/>
+  
+  <!-- Sparkle symbol ✨ -->
+  <path d="M64 32L72 56L96 64L72 72L64 96L56 72L32 64L56 56L64 32Z" 
+        fill="white" stroke="white" stroke-width="2"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="128" y2="128">
+      <stop offset="0%" stop-color="#4a90e2"/>
+      <stop offset="100%" stop-color="#63b3ed"/>
+    </linearGradient>
+  </defs>
+</svg> 
